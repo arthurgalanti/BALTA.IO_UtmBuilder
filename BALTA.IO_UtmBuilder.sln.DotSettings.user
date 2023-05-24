@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=748985f9_002Db4f7_002D4393_002Da75a_002D3129d59972d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DadoUmaUrlValidaNaoDeveRetornaUmaException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;MSTest::CC7500D2-E814-4288-AEFC-9BE4F53F41D4::net7.0::UtmBuilder.Core.Tests.ValueObjects.UrlTests.DadoUmaUrlValidaNaoDeveRetornaUmaException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC7500D2-E814-4288-AEFC-9BE4F53F41D4::net7.0::UtmBuilder.Core.Tests.ValueObjects.CampaignTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC7500D2-E814-4288-AEFC-9BE4F53F41D4::net7.0::UtmBuilder.Core.Tests.ValueObjects.UrlTests.DadoUmaListaDeUrlsDeveRetornarOuNaoUmaException_DataRow&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
