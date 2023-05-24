@@ -29,6 +29,7 @@ public class CampaignTests
                 Assert.Fail();
             }
             catch (InvalidCampaignException)
+               // when(e.Message == "Source is invalid")
             {
                 Assert.IsTrue(true);
             }

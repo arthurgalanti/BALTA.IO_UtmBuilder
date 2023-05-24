@@ -42,7 +42,7 @@ public class Utm
         var term = pars.FirstOrDefault(x => x.StartsWith("utm_term"))?.Split("=")[1];
         var content = pars.FirstOrDefault(x => x.StartsWith("utm_content"))?.Split("=")[1];
 
-        var utm = new Utm(new Url(segments[0]), new Campaign(source, medium, name, id, term, content));
+        var utm = new Utm(new Url(segments[0]), new Campaign(source!, medium!, name!, id, term, content));
         return utm;
     }
     
